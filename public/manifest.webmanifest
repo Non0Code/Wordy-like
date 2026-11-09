@@ -1,0 +1,11 @@
+{
+  "name": "Parla — Apprendre l'italien",
+  "short_name": "Parla",
+  "description": "Apprendre l'italien en immersion avec des scènes, un dictionnaire personnel et la répétition espacée.",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f3ec",
+  "theme_color": "#14513c",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
